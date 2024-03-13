@@ -1,8 +1,8 @@
 # dotNETRevision
-Small but full of helpful knowledge about .NET technologies and common patterns for being a better .NET Software Engineer.
+Small but full of helpful knowledge about .NET, Angular & other technologies and common patterns for being a better Software Engineer.
 
 ## Introduction
-In this repository, I will be sharing all tutorials, books, courses, documentations, videos (and more) that is related to the big picture, better understanding of .NET.
+In this repository, I will be sharing all tutorials, books, courses, documentations, videos (and more) that is related to the big picture, better understanding of .NET, Angular, and more soon!
 
 ## Sharing
 Sharing is caring as they say. So you are free to share this repository (or part of it) anywhere you want to BY including a reference to me. The work in it is just a collection of separete information I collected from internet or from actual interviews I were interviewed by.
